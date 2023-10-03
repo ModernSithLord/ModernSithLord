@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 - 👋 Greetings & Welcome
 - 👀 My Interests revolve around all things technology, currently I am a engineer & sec ops expert.
