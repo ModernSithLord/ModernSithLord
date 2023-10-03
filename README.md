@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-<!--
-**ModernSithLord/ModernSithLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Greetings & Welcome
 - 👀 My Interests revolve around all things technology, currently I am a engineer & sec ops expert.
 - 🌱 Currently I am learning a ton in regards to programming & information security while finishing another degree.
 - 🔥 Most of my projects are solo or group collab's, they also tend to be private.
 - 📫 You can reach me at michael.schneider_uh@proton.me
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
   ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
   ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
