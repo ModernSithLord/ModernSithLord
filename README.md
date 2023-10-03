@@ -1,15 +1,15 @@
  ![image](https://github.com/ModernSithLord/ModernSithLord/assets/141284093/e3d01d17-a52b-4aa5-bc7f-dbe323f230d6)
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=ModernSithLord&theme=nordfox)](https://git.io/streak-stats)
+
+ ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ModernSithLord/ModernSithLord/assets/141284093/7717877a-fbb7-4867-8743-ae59ebbc626c)
+
 - 👋 Greetings & Welcome
 - 👀 My Interests revolve around all things technology, currently I am a engineer & sec ops expert.
 - 🌱 Currently I am learning a ton in regards to programming & information security while finishing another degree.
 - 🔥 Most of my projects are solo or group collab's, they also tend to be private.
 - 📫 You can reach me at michael.schneider_uh@proton.me
 
-- [![GitHub Streak](https://streak-stats.demolab.com?user=ModernSithLord&theme=nordfox)](https://git.io/streak-stats)
-
-
- ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ModernSithLord/ModernSithLord/assets/141284093/7717877a-fbb7-4867-8743-ae59ebbc626c)
 
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
