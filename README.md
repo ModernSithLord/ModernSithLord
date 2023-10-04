@@ -1,7 +1,7 @@
  ![image](https://github.com/ModernSithLord/ModernSithLord/assets/141284093/e3d01d17-a52b-4aa5-bc7f-dbe323f230d6)
 
 - 👋 Greetings & Welcome
-- 👀 My Interests revolve around all things technology, currently I am a engineer & sec ops expert.
+- 👀 My Interests revolve around all things technology.
 - 🌱 Currently I am learning a ton in regards to programming & information security while finishing another degree.
 - 🔥 Most of my projects are solo or group collab's, they also tend to be private.
 - 📫 You can reach me at michael.schneider_uh@proton.me
