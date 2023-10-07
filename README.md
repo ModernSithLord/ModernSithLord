@@ -1,9 +1,9 @@
  ![image](https://github.com/ModernSithLord/ModernSithLord/assets/141284093/e3d01d17-a52b-4aa5-bc7f-dbe323f230d6)
 
-- 👋 Greetings & Welcome
-- 👀 My Interests revolve around all things technology.
-- 🌱 Currently I am learning a ton in regards to programming & information security while finishing another degree.
-- 🔥 Most of my projects are solo or group collab's, they also tend to be private.
+- 👋 Hello there, general kenobi 
+- 👀 My interests do revolve around a variety of categories broken down from the overall tree of technology, ranging from programming to sec ops.
+- 🌱 Currently I am wrapping up a bachelors degree, so that is exciting.
+- 🔥 Most of my projects are solo or group endavors & these endavors tend to be private.
 - 📫 You can reach me at michael.schneider_uh@proton.me
 
  ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ModernSithLord/ModernSithLord/assets/141284093/7717877a-fbb7-4867-8743-ae59ebbc626c)
