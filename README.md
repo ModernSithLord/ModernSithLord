@@ -1,8 +1,8 @@
  ![image](https://github.com/ModernSithLord/ModernSithLord/assets/141284093/e3d01d17-a52b-4aa5-bc7f-dbe323f230d6)
 
 - 👋 Hello there, general kenobi 
-- 👀 My interests do revolve around a variety of categories broken down from the overall tree of technology, ranging from programming to sec ops.
-- 🌱 Currently I am wrapping up a bachelors degree, so that is exciting.
+- 👀 My interests revolve around technology, enough said there.
+- 🌱 Currently I work as an infrastructure/ information technology analyst. Also as an information security specialist. I am also wrapping up a bachelor's degree.
 - 🔥 Most of my projects are solo or group endavors & these endavors tend to be private.
 - 📫 You can reach me at michael.schneider_uh@proton.me
 
