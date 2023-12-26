@@ -2,7 +2,7 @@
 
 - 👋 Hello there, general kenobi 
 - 👀 My interests revolve around technology, enough said there.
-- 🌱 Currently I work as an infrastructure/ information technology analyst. Also as an information security specialist. I am also wrapping up a bachelor's degree.
+- 🌱 Currently I work as an infrastructure analyst & information security specialist.  I am also wrapping up a bachelor's degree related to information security & programming.
 - 🔥 Most of my projects are solo or group endavors & these endavors tend to be private.
 - 📫 You can reach me at michael.schneider_uh@proton.me
 
